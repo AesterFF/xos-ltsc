@@ -1,5 +1,5 @@
 # XOS LTSC 1809
-1809 LTSC based custom ISO for competitive gaming.
+1809 LTSC based custom ISO for competitive gaming. Supports FACEIT & ESEA
 
 Not working & unsupported features:
 
