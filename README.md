@@ -1,6 +1,8 @@
 # XOS LTSC 1809
 1809 LTSC based custom ISO for competitive gaming. Supports FACEIT & ESEA
 
+# 1809 LTSC supports GTX16xx series cards and RTX cards.
+
 Not working & unsupported features:
 
 - Windows Store doesn't come with LTSC, so even on stock LTSC ISOs you won't have Microsoft Store.
